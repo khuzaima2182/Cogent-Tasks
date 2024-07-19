@@ -10,5 +10,10 @@
 <li>Examples for the given context to not to generate generic post</li>
 </ul>
 
-<h3>Prompt i Wrote</h3>
+<h3>Prompt I Wrote</h3>
+<img src="prompt.png" alt="Prompt">
+
+<p>The answer(Q(n)) is a dictionary initialized with users given answer of questionare and passed to the prompt</p>
+
+
 
