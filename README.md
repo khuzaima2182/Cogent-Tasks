@@ -1,4 +1,12 @@
-<h1>Social Media Post Generator</h1>
+<h2>Cogent Labs Tasks</h2>
+<h3>Technologies Used</h3>
+<ul>
+  <li>Python</li>
+  <li>Gemini-models/text-bison-001</li>
+  <li>LangChain</li>
+  <li>Jupyter Notebook</li>
+</ul>
+<h1>1. Social Media Post Generator</h1>
 
 <p>How do i write the prompt?</p>
 
@@ -15,5 +23,12 @@
 
 <p>The answer(Q(n)) is a dictionary initialized with users given answer of questionare and passed to the prompt</p>
 
+<h3>Answer's Dictionary</h3>
+<img src="answers.png" alt="Answer's Dict">
+
+<h3>LLM Response</h3>
+<img src="Response.png" alt="Response">
+
+<h1>2. Timetable Generator Task</h1>
 
 
