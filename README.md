@@ -6,6 +6,10 @@
   <li>LangChain</li>
   <li>Jupyter Notebook</li>
 </ul>
+<h3>File Names</h3>
+<ul>
+  <li><b>Taks_1_Social_Media_Post_Generator</b></li>
+  <li><b>Taks_2_Time_Table_Generator</b></li>
 <h1>1. Social Media Post Generator</h1>
 
 <p>How do i write the prompt?</p>
